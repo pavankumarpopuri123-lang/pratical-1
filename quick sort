@@ -42,3 +42,5 @@ int main() {
     }
     return 0;
 }
+
+//output: 4 11 12 13 15 16 17 18 19
